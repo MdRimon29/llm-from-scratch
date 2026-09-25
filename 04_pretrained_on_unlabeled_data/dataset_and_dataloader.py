@@ -116,8 +116,8 @@ print(ids)
 print(tokenizer.decode(ids))
 
 # %%
-text = "Hello, do you like tea?"    # This should return a keyerror "Hello", because in training data it doesn't see this one.
-print(tokenizer.encode(text))
+# text = "Hello, do you like tea?"    # This should return a keyerror "Hello", because in training data it doesn't see this one.
+# print(tokenizer.encode(text))
 
 # %% [markdown]
 # #### **Adding special context token**
