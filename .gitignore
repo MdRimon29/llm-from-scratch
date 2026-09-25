@@ -1,3 +1,6 @@
+04_pretrained_on_unlabeled_data/model_and_optimizer.pth
+04_pretrained_on_unlabeled_data/model.pth
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[codz]
