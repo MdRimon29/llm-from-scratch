@@ -2,6 +2,7 @@
 04_pretrained_on_unlabeled_data/model.pth
 04_pretrained_on_unlabeled_data/4.66
 04_pretrained_on_unlabeled_data/gpt2/
+05_finetuning_for_classification/sms_spam_collection.zip
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
