@@ -7,6 +7,9 @@
 05_finetuning_for_classification/model_and_optimizer.pth
 05_finetuning_for_classification/model.pth
 05_finetuning_for_classification/review_classifier.pth
+06_fine_tuning_to_follow_instruction/gpt2/
+06_fine_tuning_to_follow_instruction/model_and_optimizer.pth
+06_fine_tuning_to_follow_instruction/model.pth
 .vscode
 
 # Byte-compiled / optimized / DLL files
