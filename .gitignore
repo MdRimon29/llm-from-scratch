@@ -1,16 +1,16 @@
-04_pretrained_on_unlabeled_data/model_and_optimizer.pth
-04_pretrained_on_unlabeled_data/model.pth
-04_pretrained_on_unlabeled_data/4.66
-04_pretrained_on_unlabeled_data/gpt2/
-05_finetuning_for_classification/sms_spam_collection.zip
-05_finetuning_for_classification/gpt2/
-05_finetuning_for_classification/model_and_optimizer.pth
-05_finetuning_for_classification/model.pth
-05_finetuning_for_classification/review_classifier.pth
-06_fine_tuning_to_follow_instruction/gpt2/
-06_fine_tuning_to_follow_instruction/model_and_optimizer.pth
-06_fine_tuning_to_follow_instruction/model.pth
-06_fine_tuning_to_follow_instruction/gpt2-small124M-sft.pth
+learning/04_pretrained_on_unlabeled_data/model_and_optimizer.pth
+learning/04_pretrained_on_unlabeled_data/model.pth
+learning/04_pretrained_on_unlabeled_data/4.66
+learning/04_pretrained_on_unlabeled_data/gpt2/
+learning/05_finetuning_for_classification/sms_spam_collection.zip
+learning/05_finetuning_for_classification/gpt2/
+learning/05_finetuning_for_classification/model_and_optimizer.pth
+learning/05_finetuning_for_classification/model.pth
+learning/05_finetuning_for_classification/review_classifier.pth
+learning/06_fine_tuning_to_follow_instruction/gpt2/
+learning/06_fine_tuning_to_follow_instruction/model_and_optimizer.pth
+learning/06_fine_tuning_to_follow_instruction/model.pth
+learning/06_fine_tuning_to_follow_instruction/gpt2-small124M-sft.pth
 .vscode
 
 # Byte-compiled / optimized / DLL files
