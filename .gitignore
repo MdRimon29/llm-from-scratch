@@ -11,6 +11,7 @@ learning/06_fine_tuning_to_follow_instruction/gpt2/
 learning/06_fine_tuning_to_follow_instruction/model_and_optimizer.pth
 learning/06_fine_tuning_to_follow_instruction/model.pth
 learning/06_fine_tuning_to_follow_instruction/gpt2-small124M-sft.pth
+checkpoints/gpt_model.pth
 .vscode
 
 # Byte-compiled / optimized / DLL files
