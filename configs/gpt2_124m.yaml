@@ -1,0 +1,22 @@
+model:
+  vocab_size: 50257
+  context_length: 256
+  emb_dim: 768
+  n_heads: 12
+  n_layers: 12
+  drop_rate: 0.1
+  qkv_bias: false
+
+training:
+  batch_size: 2
+  learning_rate: 0.0004
+  weight_decay: 0.1
+  num_epochs: 10
+  eval_frequency: 100
+  eval_iterations: 5
+
+data:
+  train_split: 0.9
+  stride: 256
+
+seed: 123
